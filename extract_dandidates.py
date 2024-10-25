@@ -6,7 +6,7 @@ import time
 from webdriver_manager.chrome import ChromeDriverManager
 
 # 出力するCSVファイルのパス
-output_csv = r"C:\candidates\candidates.csv"
+output_csv = r"candidates.csv"#自身の保存したいファイルのpathを記入してください
 
 # CSVのヘッダー
 headers = [
